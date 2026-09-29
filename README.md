@@ -1,1 +1,1 @@
-I made some changes in the repo with the help of Claude, but all the code was written by myself and it's also the case for the summmaries I added. These summaries attempt to summarize the theory and how I used it in the context of the practicaL.
+I made some changes in the repo with the help of Claude, but all the code was written by myself and it's also the case for the summmaries I added. These summaries attempt to explain the theory and how I used it for the practicals.
