@@ -1,4 +1,4 @@
-I made some changes in the repo with the help of Claude, but (I think it's important to mention it) all the code was written by myself and it's also the case for the summmaries I added. These summaries attempt to explain the theory and how I used it for the practicals.
+I made some changes in the repo with the help of Claude, but (I think it's important to mention it) all the code was written by myself and it's also the case for the summmaries I added. These summaries attempt to explain the theory I used it for the practicals.
 We can summarize what I've learnt this way : 
 
 
